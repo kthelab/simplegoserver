@@ -1,3 +1,3 @@
-module github.com/kthelab/simple_server_go
+module github.com/kthelab/simplegoserver
 
 go 1.26.3
